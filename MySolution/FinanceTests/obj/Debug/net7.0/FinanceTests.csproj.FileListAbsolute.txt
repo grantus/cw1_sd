@@ -1,0 +1,6 @@
+/Users/vasilisagolikova/RiderProjects/cw1-sd/MySolution/FinanceTests/obj/Debug/net7.0/FinanceTests.csproj.AssemblyReference.cache
+/Users/vasilisagolikova/RiderProjects/cw1-sd/MySolution/FinanceTests/obj/Debug/net7.0/FinanceTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasilisagolikova/RiderProjects/cw1-sd/MySolution/FinanceTests/obj/Debug/net7.0/FinanceTests.AssemblyInfoInputs.cache
+/Users/vasilisagolikova/RiderProjects/cw1-sd/MySolution/FinanceTests/obj/Debug/net7.0/FinanceTests.AssemblyInfo.cs
+/Users/vasilisagolikova/RiderProjects/cw1-sd/MySolution/FinanceTests/obj/Debug/net7.0/FinanceTests.csproj.CoreCompileInputs.cache
+/Users/vasilisagolikova/RiderProjects/cw1-sd/MySolution/FinanceTests/obj/Debug/net7.0/FinanceTests.sourcelink.json
